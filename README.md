@@ -207,3 +207,4 @@ $(".foo div#bar:eq(0)")
 * What are your favorite parts about the developer tools you use?
 * Do you have any pet projects? What kind? 
 * What's your favorite feature of Internet Explorer?
+* What's your favorite programming language? What **don't** you like about it?
